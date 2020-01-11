@@ -1,0 +1,23 @@
+/*
+ First External CSS Stylesheet
+ */
+
+/* Styling for HTML elements */
+
+.headline {
+    color: teal;
+    font: arial;
+}
+
+.background {
+  background: white;
+  }
+
+
+#front-image {
+  width: 200px;
+  height: 200px;
+  padding: 0 15px;
+  float: left;
+}
+
